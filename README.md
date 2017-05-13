@@ -1,4 +1,4 @@
-
+#
 ![intro](http://i.imgur.com/RgGlNpQ.jpg)
 
 # Red - A fully customizable Discord bot
